@@ -1,4 +1,4 @@
-<div style="display: flex;">
+<div style="display: flex; flex-direction: row;">
   <div>
     <p>### Hi there 👋
     Happy to see you here.
@@ -10,6 +10,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=wplf&show_icons=true&theme=tokyonight" />
   </div>
 </div>
+
 
 
 <div align="right"> <img src="https://github-readme-stats.vercel.app/api?username=wplf&show_icons=true&theme=tokyonight" /> </div>
