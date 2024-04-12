@@ -1,19 +1,13 @@
-<div style="display: flex; align-items: center;">
-  <div style="display: inline-block;">
-    <p>### Hi there 👋
-    Happy to see you here.
-    - 🔭 I’m currently working on nothing.
-    - 🌱 I’m currently learning LLM and ML-compiler.
-    - 📫 How to reach me: 9757561915@qq.com</p>
-  </div>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=wplf&show_icons=true&theme=tokyonight" />
-  </div>
-</div>
+### Hi there 👋
+I am Jinliang Li. Happy to see you here.
+- 🔭 I’m currently working on nothing.
+- 🌱 I’m currently learning LLM and ML-compiler.
+- 📫 How to reach me: 9757561915@qq.com</p>
+    
 
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1;">左侧内容</div>
-  <div style="flex: 1;">右侧内容</div>
+
+<div align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=wplf&show_icons=true&theme=tokyonight" />
 </div>
 
 
