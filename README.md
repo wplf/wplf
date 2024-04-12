@@ -11,7 +11,10 @@
   </div>
 </div>
 
-
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">左侧内容</div>
+  <div style="flex: 1;">右侧内容</div>
+</div>
 
 
 
