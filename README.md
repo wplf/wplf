@@ -1,10 +1,11 @@
 <div style="display: flex; flex-direction: row;">
   <div>
-    <p>### Hi there 👋
-    Happy to see you here.
-    - 🔭 I’m currently working on nothing.
-    - 🌱 I’m currently learning LLM and ML-compiler.
-    - 📫 How to reach me: 9757561915@qq.com</p>
+    <p>### Hi there 👋 <br />
+    Happy to see you here. <br />
+    - 🔭 I’m currently working on nothing.<br />
+    - 🌱 I’m currently learning LLM and ML-compiler.<br />
+    - 📫 How to reach me: 9757561915@qq.com<br />
+    </p>
   </div>
   <div align="right">
     <img src="https://github-readme-stats.vercel.app/api?username=wplf&show_icons=true&theme=tokyonight" />
