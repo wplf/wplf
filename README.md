@@ -16,7 +16,6 @@
 
 
 
-<div align="right"> <img src="https://github-readme-stats.vercel.app/api?username=wplf&show_icons=true&theme=tokyonight" /> </div>
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wplf" /> </div>
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=wplf" /> </div>
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=wplf&theme=xcode" /> </div>
