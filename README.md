@@ -2,8 +2,6 @@
 Happy to see you here.
 - 🔭 I’m currently working on nothing.
 - 🌱 I’m currently learning LLM and ML-compiler.
-- 👯 I’m looking to collaborate on LLM.
-- 🤔 I’m looking for help with a job.
 - 📫 How to reach me: 9757561915@qq.com
 - 
 <div align="right"> <img src="https://github-readme-stats.vercel.app/api?username=wplf&show_icons=true&theme=tokyonight" /> </div>
