@@ -16,9 +16,7 @@ I am Jinliang Li. Happy to see you here.
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wplf" />
 </a >
 
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=wplf&theme=xcode" /> </div>
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=wplf" /> </div>
-<div align="center"> <img src="https://profile-counter.glitch.me/wplf/count.svg" /> </div>
+<a > <img src="https://profile-counter.glitch.me/wplf/count.svg" /> </a>
 
 <!--
 **wplf/wplf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
