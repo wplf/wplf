@@ -11,14 +11,4 @@ The excellent open courses I have taken and will take
 - [ ] WISC CS839 https://pages.cs.wisc.edu/~shivaram/cs839-sp22/
 
 
-<a href=" ">
-  <img src="https://github-readme-stats.vercel.app/api?username=wplf&show_icons=true&theme=tokyonight" />
-</a >
-<!-- <a href=" ">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wplf" />
-</a > -->
 
-<!--
-**wplf/wplf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
--->
