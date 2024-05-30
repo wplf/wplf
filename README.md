@@ -1,8 +1,5 @@
 ### Hi there 👋
 I am Jinliang Li. Happy to see you here.
-- 🔭 I’m currently working on  ML-compiler.
-- 🌱 I’m currently learning CMU10-714.
-- 📫 How to reach me: 9757561915@qq.com</p>
 
 The excellent open courses I have taken and will take
 
